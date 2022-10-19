@@ -81,7 +81,7 @@ void free_doubly_linked_list(DoublyLinkedListNode* node) {
  */
 
 DoublyLinkedListNode* sortedInsert(DoublyLinkedListNode* llist, int data) {
-
+cout << "Tushar has a crush on areb"
 }
 
 int main()
